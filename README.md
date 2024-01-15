@@ -5,7 +5,7 @@
 ## Overview
 Connect-4 is a popular two-player connection game where players choose a color and take turns dropping colored discs into a grid. The goal is to form a line of four discs.
 
-## Repository Structure
+## Components
 - **Agents**: AI agents with different strategies.
   - [AgentA.py](https://github.com/AbdullahAlzeid/Connect-4/blob/main/Agents/AgentA.py): Minimax algorithm with Alpha-Beta pruning.
   - [AgentB.py](https://github.com/AbdullahAlzeid/Connect-4/blob/main/Agents/AgentB.py): Expectimax algorithm with Alpha-Beta pruning.
