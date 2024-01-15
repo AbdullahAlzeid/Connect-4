@@ -1,5 +1,7 @@
 # Connect-4
 
+ ![Alt text](/images/con4.png)
+
 ## Overview
 Connect-4 is a popular two-player connection game where players choose a color and take turns dropping colored discs into a grid. The goal is to form a line of four discs.
 
